@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recycleview1.adapter;
+package id.sch.smktelkom_mlg.learn.recycleview2.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -7,12 +7,10 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.learn.recycleview1.R;
-import id.sch.smktelkom_mlg.learn.recycleview1.model.Hotel;
+import id.sch.smktelkom_mlg.learn.recycleview2.R;
+import id.sch.smktelkom_mlg.learn.recycleview2.model.Hotel;
 
 /**
  * Created by ACER on 01/11/2016.
